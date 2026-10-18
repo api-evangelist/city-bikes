@@ -40,7 +40,8 @@ apis:
   - name: City Bikes
     description: "City Bikes around the world"
     humanURL: https://api.citybik.es/v2/
-    tags:
+    tags: []
+    tags_raw:
       - Sports And Fitness
     properties:
       - type: Documentation
